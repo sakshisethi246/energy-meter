@@ -1,0 +1,18 @@
+entries:
+  map:
+     1: Dr Evil's Dark Energy
+     2: The Green Eco
+     3: Power for Everyone
+  pricePlanMap:
+     1: price-plan-0
+     2: price-plan-1
+     3: price-plan-2
+     4: price-plan-3
+     5: price-plan-4
+
+app:
+  menu:
+    - smartMeterId: smart-meter-0
+      electricityProviders: 1
+    - smartMeterId: smart-meter-1
+      electricityProviders: 2
